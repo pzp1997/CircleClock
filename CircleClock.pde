@@ -39,7 +39,7 @@ void draw() {
   if (pm) {
     fill(pmColor);
     noStroke();
-    ellipse(width/2, height/2, 50, 50);
+    ellipse(width/2, height/2, 52, 52);
     noFill();
   }
 }
