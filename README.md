@@ -1,3 +1,9 @@
-<h1>CircleClock</h1>
-<p>Shows the time by representing hours, minutes, and seconds as sectors of circles. Written in Processing.</p>
-<p><a href="http://pzp1997.github.io/CircleClock/">Click here</a> to see it in action!</a><p>
+<h1>Clocks</h1>
+<p>A collection of Processing programs that illustrate creative ways to display the time.</p>
+<p><a href="http://pzp1997.github.io/Clocks/">Click here</a> to see them in action!</a><p>
+
+<h3>CircleClock.pde</h3>
+<p>Shows the time as sectors of circles.</p>
+
+<h3>LineClock.pde</h3>
+<p>Uses horizontal lines to represent the hours, minutes, and seconds.</p>
